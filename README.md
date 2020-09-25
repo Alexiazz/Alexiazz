@@ -2,7 +2,7 @@
 ### I'm learning to become a full stack developper, currently studying @Simplon.co 🚀
 
 
-- 🌍 I'm from Paris
+- 🌍 I'm from Paris but I've lived in other countries 
 
 - 🌱 I’m currently learning #Java #Mysql #html #css #Javascript 
 
